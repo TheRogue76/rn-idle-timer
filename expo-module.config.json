@@ -1,0 +1,9 @@
+{
+  "platforms": ["ios", "android"],
+  "ios": {
+    "modules": ["RnIdleTimerModule"]
+  },
+  "android": {
+    "modules": ["ir.nasirimehr.rnidletimer.RnIdleTimerModule"]
+  }
+}

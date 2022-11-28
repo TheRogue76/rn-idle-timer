@@ -1,0 +1,10 @@
+{
+  "extends": "expo/tsconfig.base",
+  "compilerOptions": {
+    "strict": true,
+    "paths": {
+      "rn-idle-timer": ["../src/index"],
+      "rn-idle-timer/*": ["../src/*"]
+    }
+  }
+}
