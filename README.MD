@@ -1,6 +1,7 @@
 # rn-idle-timer
 
 A native module allowing you to disable and enable idle timer in Android and iOS using React Native. Supports both the old architecture and the new architecture
+This is heavily inspired by @marcshilling original package https://github.com/marcshilling/react-native-idle-timer.
 
 # API documentation
 
