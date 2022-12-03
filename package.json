@@ -1,6 +1,6 @@
 {
   "name": "rn-idle-timer",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "An API for disabling the screen idle timer for iOS and Android",
   "main": "build/index.js",
   "types": "build/index.d.ts",
@@ -19,7 +19,9 @@
     "react-native",
     "expo",
     "rn-idle-timer",
-    "RnIdleTimer"
+    "RnIdleTimer",
+    "idle",
+    "timer"
   ],
   "repository": "https://github.com/TheRogue76/rn-idle-timer",
   "bugs": {

@@ -301,7 +301,7 @@ PODS:
     - React-jsi (= 0.70.5)
     - React-logger (= 0.70.5)
     - React-perflogger (= 0.70.5)
-  - RnIdleTimer (0.1.0):
+  - RnIdleTimer (1.0.0):
     - ExpoModulesCore
   - Yoga (1.14.0)
 
@@ -474,7 +474,7 @@ SPEC CHECKSUMS:
   React-RCTVibration: 8e5c8c5d17af641f306d7380d8d0fe9b3c142c48
   React-runtimeexecutor: 7401c4a40f8728fd89df4a56104541b760876117
   ReactCommon: c9246996e73bf75a2c6c3ff15f1e16707cdc2da9
-  RnIdleTimer: de48f12712da6d732ca53b128a1ce736ae3a652c
+  RnIdleTimer: f982d851cc4db4c89b36e03b0ddd7e8f6e49c0ef
   Yoga: eca980a5771bf114c41a754098cd85e6e0d90ed7
 
 PODFILE CHECKSUM: 8485ff47c6b8e765a8340dc319621eb0270aedd0
