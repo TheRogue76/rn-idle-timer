@@ -24,6 +24,6 @@ const RnIdleTimer = RnIdleTimerModule
       }
     );
 
-export function multiply(a: number, b: number): Promise<number> {
-  return RnIdleTimer.multiply(a, b);
+export function setIdleTimerDisabled(status: boolean): void {
+  return RnIdleTimer.setIdleTimerDisabled(status);
 }
