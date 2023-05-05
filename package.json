@@ -1,6 +1,6 @@
 {
   "name": "rn-idle-timer",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "An API for disabling the screen idle timer for iOS and Android",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
